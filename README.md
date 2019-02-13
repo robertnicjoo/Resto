@@ -7,7 +7,12 @@ Resto is simple restaurant application (for testing purpose only)
 
 ## Screenshots
 
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+[homepage]: https://raw.githubusercontent.com/robertnicjoo/Resto/master/screenshots/1.png "Home Page"
+[menuCategories]: https://raw.githubusercontent.com/robertnicjoo/Resto/master/screenshots/2.png "Menu Categories"
+[menuItems]: https://raw.githubusercontent.com/robertnicjoo/Resto/master/screenshots/3.png "Menu Items"
+[orders]: https://raw.githubusercontent.com/robertnicjoo/Resto/master/screenshots/4.png "Orders"
+[addingOrder]: https://raw.githubusercontent.com/robertnicjoo/Resto/master/screenshots/5.png "Adding Order"
+[employees]: https://raw.githubusercontent.com/robertnicjoo/Resto/master/screenshots/6.png "Employees"
 
 
 ## Installation
