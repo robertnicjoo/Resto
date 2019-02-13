@@ -40,7 +40,7 @@
                 
                 <div class="card-body">
                     <div class="row">
-                        @role('Manages|Cashier')
+                        @role('Manager|Cashier')
                         <div class="col-md-12">
                             {{ Form::open(array('route' => 'orders.store')) }}
                             <div class="row">

@@ -5,6 +5,11 @@ Resto is simple restaurant application (for testing purpose only)
 - [Developer Website](https://tjd-studio.com).
 - [Email Me](mailto:robertnicjoo@outlook.com).
 
+## Screenshots
+
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+
+
 ## Installation
 
 1. Copy all files to your server/OR localhost root
