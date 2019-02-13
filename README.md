@@ -1,6 +1,7 @@
-[![Github all releases](https://img.shields.io/github/downloads/Naereen/StrapDown.js/total.svg)](https://github.com/robertnicjoo/Resto/releases/)
-[![GitHub forks](https://img.shields.io/github/forks/Naereen/StrapDown.js.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/robertnicjoo/Resto/network/)
-[![GitHub stars](https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://github.com/robertnicjoo/Resto//stargazers/)
+![Downloads](https://img.shields.io/github/downloads/robertnicjoo/Resto/v.1/total.svg?style=plastic)
+![Follow](https://img.shields.io/github/followers/robertnicjoo.svg?style=plastic)
+![Forks](https://img.shields.io/github/forks/robertnicjoo/Resto.svg?style=plastic)
+![Stars](https://img.shields.io/github/stars/robertnicjoo/Resto.svg?style=plastic)
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 
 ## About Resto
