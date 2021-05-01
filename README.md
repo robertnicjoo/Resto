@@ -11,7 +11,7 @@
 
 Resto is simple restaurant application (for testing purpose only)
 
-- [Developer Website](https://tjd-studio.com).
+- [Developer Website](https://irando.co.id).
 - [Email Me](mailto:robertnicjoo@outlook.com).
 
 ## Screenshots
