@@ -4,6 +4,9 @@
 ![Stars](https://img.shields.io/github/stars/robertnicjoo/Resto.svg?style=plastic)
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 
+
+> **Note** This application is outdated, you must update dependencies of both JavaScript packages and Composer packages by yourself after pulling this repository in order to stay safe and secure.
+
 ## About Resto
 
 Resto is simple restaurant application (for testing purpose only)
